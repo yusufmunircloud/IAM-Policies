@@ -1,7 +1,7 @@
 # IAM-Policies
 Simplifying user access with curated IAM policies for common and unique use cases. Ease the process of managing access controls.
 
-IAM-Policies Repository: Simplifying User Access with Comprehensive IAM Policies
+# IAM-Policies Repository: Simplifying User Access with Comprehensive IAM Policies
 
 The IAM-Policies repository is a curated collection of Identity and Access Management (IAM) policies designed to streamline user access management for a wide range of common and unique use cases. This repository aims to provide developers, administrators, and security professionals with a comprehensive resource to leverage pre-defined policies, reducing the time and effort required to define and implement access controls.
 
